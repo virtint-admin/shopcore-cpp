@@ -1,0 +1,16 @@
+sku,name,category,price,cost,weight_g,length_mm,width_mm,height_mm,hsn,active,launched
+APP-10001-BLU-M,Classic Cotton T-Shirt Blue M,apparel/men/tshirts,799.00 INR,320.00 INR,220,300,250,20,6109,true,2025-03-01
+APP-10001-BLU-L,Classic Cotton T-Shirt Blue L,apparel/men/tshirts,799.00 INR,320.00 INR,240,310,260,20,6109,true,2025-03-01
+APP-10001-BLK-M,Classic Cotton T-Shirt Black M,apparel/men/tshirts,849.00 INR,330.00 INR,220,300,250,20,6109,true,2025-06-15
+APP-10002-WHT-S,Linen Shirt White S,apparel/men/shirts,1499.00 INR,610.00 INR,300,320,260,30,6205,true,2025-08-10
+APP-20001-RED-XL,"Silk Saree, Kanjeevaram Red",apparel/women/sarees,4999.00 INR,2100.00 INR,750,400,300,60,5007,true,2024-11-20
+ELE-30001,Wireless Earbuds,electronics/audio,2499.00 INR,1350.00 INR,120,100,80,40,8518,true,2025-01-05
+ELE-30002,Bluetooth Speaker,electronics/audio,3999.00 INR,2200.00 INR,650,200,120,100,8518,true,2024-09-01
+ELE-30005,USB-C Charger 65W,electronics/accessories,1899.00 INR,900.00 INR,180,90,70,40,8504,true,2025-10-01
+BOK-40001,The Pragmatic Programmer,books/tech,899.00 INR,540.00 INR,560,240,170,30,4901,true,2023-02-14
+BOK-40002,Indian Cooking Basics,books/cooking,499.00 INR,260.00 INR,420,230,160,20,4901,true,2024-07-07
+GRO-50001,Darjeeling Tea 250g,grocery/beverages,349.00 INR,180.00 INR,280,150,90,60,0902,true,2025-02-02
+GRO-50002,Filter Coffee 500g,grocery/beverages,449.00 INR,230.00 INR,530,180,110,70,0901,true,2025-04-18
+HOM-60001,Steel Water Bottle 1L,home/kitchen,599.00 INR,250.00 INR,350,280,80,80,7323,true,2024-12-01
+HOM-60002,Cotton Bedsheet Double,home/bedding,1299.00 INR,520.00 INR,900,350,280,60,6304,false,2023-05-30
+FUR-70001,Folding Study Table,home/furniture,5499.00 INR,3100.00 INR,12000,900,500,80,9403,true,2025-09-09

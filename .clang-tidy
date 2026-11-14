@@ -1,0 +1,23 @@
+---
+# Checks run by `make lint` (scripts/lint.py) on src/. Keep this list cheap: the grading
+# image must finish linting in under 60 seconds on 2 CPUs.
+Checks: >
+  -*,
+  bugprone-*,
+  -bugprone-easily-swappable-parameters,
+  -bugprone-narrowing-conversions,
+  -bugprone-implicit-widening-of-multiplication-result,
+  performance-*,
+  misc-redundant-expression,
+  readability-braces-around-statements,
+  readability-misleading-indentation,
+  readability-redundant-control-flow,
+  readability-redundant-string-cstr,
+  readability-else-after-return,
+  modernize-use-nullptr,
+  -performance-enum-size,
+  -bugprone-throwing-static-initialization,
+  -performance-inefficient-string-concatenation
+HeaderFilterRegex: 'src/shopcore/.*'
+WarningsAsErrors: ''
+...

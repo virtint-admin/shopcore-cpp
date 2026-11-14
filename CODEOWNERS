@@ -1,0 +1,4 @@
+# Default owners for everything in the repo.
+*                @virtint-learners/shopcore-maintainers
+/src/shopcore/ledger/   @virtint-learners/finance-eng
+/src/shopcore/tax/      @virtint-learners/finance-eng

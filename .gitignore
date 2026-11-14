@@ -1,0 +1,16 @@
+# Build outputs (see Makefile)
+/build/
+/build-*/
+/reports/
+*.gcda
+*.gcno
+*.gcov
+*.gcov.json.gz
+__pycache__/
+*.pyc
+compile_commands.json
+.cache/
+
+# The monorepo root ignores every "reports/" directory; the reports module is source.
+!/src/shopcore/reports/
+!/tests/reports/
