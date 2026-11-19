@@ -1,4 +1,4 @@
-# issue id -> the test its pull request must make pass (read by check-fix.sh)
+# issue id -> the test its pull request must make pass
 CPP-0010 Issue0010.test_issue_0010
 CPP-0011 Issue0011.test_issue_0011
 CPP-0015 Issue0015.test_issue_0015
