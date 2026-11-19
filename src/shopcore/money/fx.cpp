@@ -85,7 +85,7 @@ Money convert(const Money& amount, const FxRate& rate, RoundingMode mode) {
     if (rate.rate_e6 <= 0) {
         throw MoneyError("FX rate must be positive");
     }
-    if (rate.base == rate.quote || amount.currency == rate.base) {
+    if (rate.base == rate.quote) {
         return amount;
     }
     const int base_exp = currency_exponent(rate.base);
